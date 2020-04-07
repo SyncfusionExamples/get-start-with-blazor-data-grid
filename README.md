@@ -8,28 +8,11 @@ Online examples: https://blazor.syncfusion.com/demos/datagrid/overview/
  
 ## Project prerequisites
 
-Please make sure that you have Visual Studio 2019 and the .Net Core SDK 3.1 or later versions on your machine before starting to work on this project.
+Make sure that you have the compatible versions of Visual Studio 2019 and .NET Core SDK 3.1.2 in your machine before starting to work on this project.
 
-## How to run this application
+## How to run this application?
 
-To run this application, you need to first clone the `get-start-with-blazor-data-grid` repository and then navigate to the
-path where it is located in your system.
-
-To do so, open the command prompt and run the following commands one after the other.
-
-```
-git clone https://github.com/SyncfusionExamples/get-start-with-blazor-data-grid grid-example
-cd grid-example
-```
-
-## Run
-
-After downloading, you need to run this application locally by pressing the F5 key.
-
-## Further help
-
-For more help on Syncfusion Blazor, check the [documentation link] (https://ej2.syncfusion.com/blazor/documentation/getting-started/vs-blazor-server/).
-
+To run this application, you need to first clone the `get-start-with-blazor-data-grid` repository and then open it in Visual Studio 2019. Now, simply build and run your project to view the output.
 
 
 
