@@ -6,7 +6,7 @@ A quick-start project that helps you create a new Blazor application using Visua
 
 **Sample link**: https://blazor.syncfusion.com/demos/datagrid/overview/
  
-## Pprerequisites
+## Prerequisites
 
 * Visual Studio 2022
 
