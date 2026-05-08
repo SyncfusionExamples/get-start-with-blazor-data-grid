@@ -1,4 +1,4 @@
-# Blazor DataGrid Getting Started Sample
+# Getting started with Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor DataGrid component
 
 A modern sample application demonstrating how to build a Blazor application with the [Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) component. The project demonstrates simple column customizations along with key features such as paging, sorting, filtering, and grouping.
 
