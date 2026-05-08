@@ -11,7 +11,7 @@ A modern sample application demonstrating how to build a Blazor application with
 
 ## Prerequisites
 
-- [.NET 8.0 SDK](https://dotnet.microsoft.com/download) or later
+- [.NET SDK 8.0](https://dotnet.microsoft.com/download) or later
 - [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/) or later
 - [Visual Studio Code](https://code.visualstudio.com/)
 
