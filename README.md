@@ -1,37 +1,48 @@
-# Getting Started With the Blazor DataGrid Component
+# Blazor DataGrid Getting Started Sample
 
-This sample explains about how to create a new Blazor application using Visual Studio and add the Syncfusion [Blazor Data Grid](https://www.syncfusion.com/blazor-components/blazor-datagrid) to it. This project contains simple code customizations that can be done to the data grid columns, as well as some important features such as paging, sorting, filtering, and grouping.
+A modern sample application demonstrating how to build a Blazor application with the Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) component. This project contains simple code customizations that can be done to the data grid columns, as well as some important features such as paging, sorting, filtering, and grouping.
 
 ## Features
 
-* Fast rendering with virtualization and row/column virtualization
-* Sorting, filtering, grouping, and searching capabilities
-* Inline, batch, and dialog editing modes
-* Template columns, column resizing, reordering, and freezing
-* Excel and PDF export (requires additional Syncfusion export packages)
+- **Pagination**: Browse large datasets efficiently with configurable page sizes
+- **Sorting**: Sort columns in ascending or descending order
+- **Filtering**: Apply filters to find specific records
+- **Grouping**: Organize data by column values
 
 ## Prerequisites
 
-* Visual Studio 2022 or later
-* Visual Studio Code
+- [.NET 8.0 SDK](https://dotnet.microsoft.com/download) or later
+- [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/) or later
+- [Visual Studio Code](https://code.visualstudio.com/)
 
-## How to run the project
+## Getting Started
 
-1. Clone or download this repository to a location in your system.
-2. Open the solution file using the Visual Studio or Visual Studio code.
-3. Restore the NuGet packages by rebuilding the solution or run `dotnet restore`.
-4. Build the project to ensure there are no compilation errors.
-5. Run the project.
+### Clone the Repository
 
-Optional CLI Commands:
+```bash
+git clone https://github.com/SyncfusionExamples/get-start-with-blazor-data-grid.git
+cd get-start-with-blazor-data-grid
+```
 
-```powershell
+### Run with Visual Studio
+
+1. Open the solution file using Visual Studio 2022 or later.
+2. Restore the NuGet packages by rebuilding the solution.
+3. Build the project to ensure there are no compilation errors.
+4. Run the project.
+
+### Run with .NET CLI
+
+```bash
+# Restore dependencies
 dotnet restore
-dotnet build
+
+# Run the project
+dotnet run
 ```
 
 ## References
 
-**Documentation**: https://blazor.syncfusion.com/documentation/datagrid/getting-started-with-web-app
+**Documentation**: https://blazor.syncfusion.com/documentation/datagrid/getting-started-with-server-app
 
 **Online example**: https://blazor.syncfusion.com/demos/datagrid/overview?theme=fluent2
